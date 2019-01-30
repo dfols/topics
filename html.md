@@ -1,6 +1,6 @@
 # html
 
-###Structure of a web page
+### Structure of a web page
 
 ```
 <!DOCTYPE html>
@@ -14,9 +14,7 @@
 </html>
 ```
 
-
-
-###What is an element? 
+### What is an element? 
 
 ![structure of an element](https://internetingishard.com/html-and-css/basic-web-pages/html-tags-elements-72813b.png)
 
