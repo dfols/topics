@@ -67,17 +67,16 @@
 ```html
 <body>
 	<h1>Interneting Is Easy!</h1>
-    <p>First, we need to learn some basic HTML.</p>
+	<p>First, we need to learn some basic HTML.</p>
 
-    <h2>Headings</h2>
-    <p>Headings define the outline of your site. There are six levels of
-    headings.</p>
+	<h2>Headings</h2>
+	<p>Headings define the outline of your site. There are six levels of headings.</p>
 </body>
 ```
 
 
 
-**\<ul>  + ** **\<ol>**
+**\<ul>** + **\<ol>** 
 
 ```html
 <h2>Lists</h2>
@@ -96,8 +95,7 @@
   		<li>Notice the new "ol" element wrapping everything</li>
   		<li>But, the list item elements are the same</li>
  		<li>Also note how the numbers increment on their own</li>
-  		<li>You should be noticing things is this precise order, because this is
-      	an ordered list</li>
+  		<li>You should be noticing things is this precise order, because  this is an 			ordered list</li>
 	</ol>
     
 ```
